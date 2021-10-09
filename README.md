@@ -4,6 +4,8 @@ Welcome to our course! Check out [this overview](https://github.com/HSE-LAMBDA/M
 
 Check out the exam project guidlines [here](https://github.com/HSE-LAMBDA/MLDM-2021/blob/main/Exam-project-guidelines.md).
 
+[Open this repo on Google Colab](https://colab.research.google.com/github/HSE-LAMBDA/MLDM-2021).
+
 ## Homeworks
 
 We will collect your home assignment solutions through private github repositories that you need to create (see the instructions from the 1st homework). If you haven't done so yet, please give us the info about your homework repository through [this google form](https://forms.gle/xUf9sQzttbPM9yVn7).
