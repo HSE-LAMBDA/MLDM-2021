@@ -17,3 +17,4 @@ We will collect your home assignment solutions through private github repositori
 04 | [04-regularization-pt2-and-SVM/MLDM_2021_seminar04_homework.ipynb](https://github.com/HSE-LAMBDA/MLDM-2021/blob/main/04-regularization-pt2-and-SVM/MLDM_2021_seminar04_homework.ipynb) | Oct, 17
 05 | [05-model-evaluation/MLDM_2021_seminar05_homework.ipynb](https://github.com/HSE-LAMBDA/MLDM-2021/blob/main/05-model-evaluation/MLDM_2021_seminar05_homework.ipynb) | Oct, 24
 06 | [06-trees/MLDM_2021_seminar06_homework.ipynb](https://github.com/HSE-LAMBDA/MLDM-2021/blob/main/06-trees/MLDM_2021_seminar06_homework.ipynb) | Oct, 31
+07 | [07-ensembles/MLDM_2021_seminar07_homework.ipynb](https://github.com/HSE-LAMBDA/MLDM-2021/blob/main/07-ensembles/MLDM_2021_seminar07_homework.ipynb) | Nov, 14
