@@ -18,3 +18,4 @@ We will collect your home assignment solutions through private github repositori
 05 | [05-model-evaluation/MLDM_2021_seminar05_homework.ipynb](https://github.com/HSE-LAMBDA/MLDM-2021/blob/main/05-model-evaluation/MLDM_2021_seminar05_homework.ipynb) | Oct, 24
 06 | [06-trees/MLDM_2021_seminar06_homework.ipynb](https://github.com/HSE-LAMBDA/MLDM-2021/blob/main/06-trees/MLDM_2021_seminar06_homework.ipynb) | Oct, 31
 07 | [07-ensembles/MLDM_2021_seminar07_homework.ipynb](https://github.com/HSE-LAMBDA/MLDM-2021/blob/main/07-ensembles/MLDM_2021_seminar07_homework.ipynb) | Nov, 14
+08 | [08-neuralnets/MLDM_2021_seminar08_homework.ipynb](https://github.com/HSE-LAMBDA/MLDM-2021/blob/main/08-neuralnets/MLDM_2021_seminar08_homework.ipynb) | Nov, 28
