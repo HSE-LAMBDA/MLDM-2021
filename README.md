@@ -20,3 +20,4 @@ We will collect your home assignment solutions through private github repositori
 07 | [07-ensembles/MLDM_2021_seminar07_homework.ipynb](https://github.com/HSE-LAMBDA/MLDM-2021/blob/main/07-ensembles/MLDM_2021_seminar07_homework.ipynb) | Nov, 14
 08 | [08-neuralnets/MLDM_2021_seminar08_homework.ipynb](https://github.com/HSE-LAMBDA/MLDM-2021/blob/main/08-neuralnets/MLDM_2021_seminar08_homework.ipynb) | Nov, 28
 09 | [09-convolutions-and-regularization/MLDM_2021_seminar09_homework.ipynb](https://github.com/HSE-LAMBDA/MLDM-2021/blob/main/09-convolutions-and-regularization/MLDM_2021_seminar09_homework.ipynb) | Dec, 05
+10 | [11-gans/MLDM_2021_seminar11_homework.ipynb](https://github.com/HSE-LAMBDA/MLDM-2021/blob/main/11-gans/MLDM_2021_seminar11_homework.ipynb) | Dec, 19
